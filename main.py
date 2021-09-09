@@ -1,6 +1,6 @@
 import sys
 from PyQt5.QtCore import * #install using 'pip install PyQt5'
-from PyQt5.QtWidgets import *
+from PyQt5.QtWidgets import * #install using 'pip install QtWidgets'
 from PyQt5.QtWebEngineWidgets import * #install using 'pip install QtWebEngineWidgets'
 
 
